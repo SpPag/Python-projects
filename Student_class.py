@@ -2,7 +2,7 @@
 Classes are a big part of Python. Regarding data types, so far we've seen strings, numbers, boolean values, lists, sets,
 and tuples. Those, however, are not enough on their own to describe i.e. a real world human being. In cases where the
 preexisting data types can't cover owr needs we can use the "class" function to define our own data type. I'll follow
-"Tutorial guy"'s example to illustrate the "class" function.
+Tutorial guy's example to illustrate the "class" function.
 """
 
 
