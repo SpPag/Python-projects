@@ -24,7 +24,7 @@ can just google "Python module for doing *this*" and you have a good chance to f
 to do. A good idea might be to look up generally useful Python modules and maybe install those. Anyway, an important
 thing to note here is the program "pip". It's a package manager that let's us manage modules. We install modules
 through it, usually utilizing commands like "pip install blah". In order to uninstall a module we would use a very
-similar command, like "pip uninstall blah". "Tutorial guy" said that Python 3 comes with pip preinstalled. We can check
+similar command, like "pip uninstall blah". Tutorial guy said that Python 3 comes with pip preinstalled. We can check
 if we have "pip" preinstalled the same way as we checked for our Python version. ALT + F12 to open the terminal and type
 in "pip --version" or "pip -V". I can see that I do indeed have pip preinstalled. When we install a third party module,
 it goes into the folder at "External Libraries" -> "Lib" -> "Site Packages".
