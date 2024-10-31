@@ -13,7 +13,7 @@ number_grid = [
 print(number_grid[1])
 print(number_grid[1][1])
 
-# I'd like to point out that the grid is just for aesthetics. The tutorial guy said that the first []
+# I'd like to point out that the grid is just for aesthetics. Tutorial guy said that the first []
 # refers to the row and the second [] to the column. That is not the case, as demonstrated below.
 
 number_grid = [
