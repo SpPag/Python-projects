@@ -16,7 +16,7 @@ ourselves, yes. But we can also get them online. Google "list of python modules"
 "docs.python.org for the version of Python we have installed. We can find that by going to the terminal inside PyCharm
 (ether by ALT + F12 or by going to "View" -> "Tool Windows" -> "Terminal") and typing "python --version" or "python -V".
 There are a ton of modules available there, all with their short descriptions as well as detailed explanations of how
-they work once you click their links. I believe that all of those are inherently inside out Python installation, some
+they work once you click their links. I believe that all of those are inherently inside our Python installation, some
 as structured "External Libraries" (which we can find inside the menu on the left side of PyCharm called "External
 Libraries" and then going into the "Lib" folder as a file) or as just code inside Python.
 Aside from the modules found on docs.python.org though, there are a myriad more developed by the Python community. You
