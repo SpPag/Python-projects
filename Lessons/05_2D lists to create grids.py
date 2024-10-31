@@ -23,7 +23,7 @@ number_grid = [
     [0]
 ]
 
-print("According to the tutorial guy the following should print \"7\"")
+print("According to Tutorial guy the following should print \"7\"")
 print("I think it will print \"8\"")
 print(number_grid[2][1])
 
